@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817386311776",
+    "project_id": "voicedetector-368b9",
+    "storage_bucket": "voicedetector-368b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817386311776:android:510af055c7f334ac217305",
+        "android_client_info": {
+          "package_name": "com.rahulks.voicedetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3AOhDcMVFS_OPHTohL1qoVxL7rr2QAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
