@@ -16,7 +16,7 @@ I developed this application using Flutter and Dart, integrated pre-trained Hugg
 
 The following diagram illustrates the overall workflow of Voice Detector, from audio input and model processing to the final analysis displayed on the website.
 
-"Voice Detector System Architecture" (assets/voice-detector-architecture.png)
+"Voice Detector System Architecture" (workflow.jpeg)
 
 🔄 How the System Works
 
