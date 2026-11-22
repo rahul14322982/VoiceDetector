@@ -12,11 +12,11 @@ The main objective of Voice Detector is to bring AI-powered voice analysis capab
 
 I developed this application using Flutter and Dart, integrated pre-trained Hugging Face models, and trained my own machine learning model using a dataset.
 
-🏗️ System Architecture & Workflow
+##🏗️ System Architecture & Workflow
 
 The following diagram illustrates the overall workflow of Voice Detector, from audio input and model processing to the final analysis displayed on the website.
 
-"Voice Detector System Architecture" (assets/workflow.jpeg)
+![Voice Detector System Architecture](assets/workflow.jpeg)
 
 🔄 How the System Works
 
