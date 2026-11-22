@@ -4,6 +4,19 @@ An AI-powered voice detection and audio analysis application built with Flutter 
 
 Voice Detector is a mobile application developed to provide voice-related detection and audio analysis capabilities. The project combines pre-trained machine learning models from Hugging Face with a custom-trained model developed using a dataset.
 
+📱 Download Voice Detector
+
+Voice Detector is available on the Google Play Store.
+
+<a href="https://play.google.com/store/apps/details?id=com.rahulks.voicedetector">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>
+  
+</a>Download: "Voice Detector on Google Play Store" (https://play.google.com/store/apps/details?id=com.rahulks.voicedetector)
+
+Package Name: "com.rahulks.voicedetector"
+
+
+
 This project demonstrates the practical integration of Artificial Intelligence, Machine Learning, and mobile application development.
 
 🚀 Project Overview
